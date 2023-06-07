@@ -1235,15 +1235,16 @@ export class Sidebar{
 		});
 
 		let languages = [
+			["PT", "pt"],
 			["EN", "en"],
-			["FR", "fr"],
-			["DE", "de"],
-			["JP", "jp"],
-			["ES", "es"],
-			["SE", "se"],
-			["ZH", "zh"],
-			["IT", "it"],
-			["CA", "ca"]
+			// ["FR", "fr"],
+			// ["DE", "de"],
+			// ["JP", "jp"],
+			// ["ES", "es"],
+			// ["SE", "se"],
+			// ["ZH", "zh"],
+			// ["IT", "it"],
+			// ["CA", "ca"],
 		];
 
 		let elLanguages = $('#potree_languages');
