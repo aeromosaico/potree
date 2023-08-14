@@ -364,6 +364,10 @@ canvas {
 	text-align: center;
 }
 
+.coordinates_table_container table td img {
+	max-width: unset;
+}
+
 #scene_object_properties{
 	margin:		0px;
 }
